@@ -3,7 +3,7 @@
     android:hardwareAccelerated="true"
     android:versionCode="2"
     android:versionName="1.0.0"
-    package="net.line72.montclair.steamboat"
+    package="com.gotransitapp.steamboat"
     xmlns:android="http://schemas.android.com/apk/res/android">
   <supports-screens
       android:anyDensity="true"

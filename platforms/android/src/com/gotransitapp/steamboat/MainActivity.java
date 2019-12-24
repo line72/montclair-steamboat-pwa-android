@@ -17,7 +17,7 @@
        under the License.
  */
 
-package net.line72.montclair.steamboat;
+package com.gotransitapp.steamboat;
 
 import android.os.Bundle;
 import org.apache.cordova.*;

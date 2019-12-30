@@ -167,7 +167,7 @@ android {
 	versionName privateHelpers.extractStringFromManifest("versionName")
         applicationId privateHelpers.extractStringFromManifest("package")
 
-	setProperty("archivesBaseName", "montclair-" + versionName + "-" + versionCode)
+	setProperty("archivesBaseName", "montclair-" + versionName)
 
         if (cdvMinSdkVersion != null) {
             minSdkVersion cdvMinSdkVersion
